@@ -5,6 +5,7 @@
 // @description  Adds a flairhq link to user's flairs.
 // @author       YaManicKill
 // @match        https://*.reddit.com/r/pokemontrades/*
+// @match        https://*.reddit.com/r/SVExchange/*
 // @grant        none
 // ==/UserScript==
  
